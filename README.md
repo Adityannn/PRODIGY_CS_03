@@ -34,7 +34,7 @@ To get started with `ComplexityChecker`, follow these steps:
    
 2. **Navigate to the Directory**:
    ```bash
-   cd complexitychecker
+   cd PRODIGY_CS_03
    ```
 
 3. **Install Dependencies**:

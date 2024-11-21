@@ -29,7 +29,7 @@ To get started with `ComplexityChecker`, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Adityannn/PRODIGY_CS_03
+   git clone https://github.com/Adityannn/PRODIGY_CS_03.git
    ```
    
 2. **Navigate to the Directory**:
